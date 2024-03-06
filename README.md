@@ -123,13 +123,29 @@ and as you know , ___unity engine___ and ___Microsoft visual Studio___.
 - Probability of Ants-Colony-Moving-Algorithm
 - ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/936fccce-9684-4eb7-9754-4c837cacf2c8)
 ---
--
+- Pheromone algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/f95bc386-7cb4-47ef-94b9-cb3e696774cb)
+---
+- Pheromone left by Ants-Colony-Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/a06c6723-4d3d-4a2f-8121-06ac222aa1e3)
+---
+- The Convergence Speed of Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/4ebc10c6-65e9-4f5c-a82b-9e18aad0cd38)
+---
+- Volatilization factor Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/a9a22ad5-429b-401a-aaa5-e16e7bf556e1)
+---
+- Ants-Colony-Selecting-Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/1d7318dd-5c9e-4c6e-bfab-b90b221da5c3)
+---
+- Optimal Evaluation Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/3f023e38-d62b-41ae-87c3-6e7b7cc5095d)
+---
+- Optimal Solution Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/81a9f4bd-955b-4e14-a3b1-47a693263ee7)
 
-
-
-
- ---
- ---
+---
+---
 
  # <h1 id="Documents">Documents</h1>
 
