@@ -94,7 +94,7 @@ and as you know , ___unity engine___ and ___Microsoft visual Studio___.
 - ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/38341476-867d-44ea-9011-04f4f5cc8396)
 ---
 - HOG code within C-sharp
--![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/467c492d-71b9-442d-b0ef-664529a581c9)
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/467c492d-71b9-442d-b0ef-664529a581c9)
 ---
 - CNN code within C-sharp
 - ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/4e0c5142-2224-456b-8838-4182efaf6695)
