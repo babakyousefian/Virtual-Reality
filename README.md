@@ -87,9 +87,43 @@ and as you know , ___unity engine___ and ___Microsoft visual Studio___.
 - Gloves and Controllers and touchpad
 - ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/6966254f-6e6e-4aa7-aed8-4208ca8ff9ee)
 ---
+- Hand Tracking without physics gloves
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/a0a3171c-10c0-4e7a-ac36-29e084962561)
+---
+- simple CNN architecture
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/38341476-867d-44ea-9011-04f4f5cc8396)
+---
+- HOG code within C-sharp
+-![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/467c492d-71b9-442d-b0ef-664529a581c9)
+---
+- CNN code within C-sharp
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/4e0c5142-2224-456b-8838-4182efaf6695)
+---
+- Mathematical model
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/3032671d-214b-445e-8255-8460d69693fa)
+---
+- Local coordinate system of the triangle
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/9c9debd4-c92b-48a3-bcbb-e535380d37cd)
+---
+- Another local coordiante systems
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/bd76f2a4-de22-469c-b150-f0c8a4104d11)
+---
+- combined local coordinates
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/e57efe88-5e6c-4bb5-9c1e-aa38849bff94)
+---
+- Random Collision detection
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/10a380f9-83dd-4ab4-83be-fe08925ec9bb)
+---
+- Distance Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/f4359470-d52a-4974-b8c5-2ebcf6ea8e7e)
+---
+- Centroid spacing Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/751c2735-ebaa-4564-997e-8a25de4c0f6c)
+---
+- Probability of Ants-Colony-Moving-Algorithm
+- ![image](https://github.com/babakyousefian/Virtual-Reality/assets/111069294/936fccce-9684-4eb7-9754-4c837cacf2c8)
+---
 -
-
-
 
 
 
